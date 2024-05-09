@@ -1,4 +1,4 @@
-module dagger/nucleidagger
+module dagger/nucleiscanner
 
 go 1.22.2
 
