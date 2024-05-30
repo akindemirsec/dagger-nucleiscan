@@ -1,6 +1,6 @@
 {
-  "name": "nucleiscanner",
-  "sdk": "go",
+  "name": "nuclei",
+  "sdk": "python",
   "source": "dagger",
   "engineVersion": "v0.11.2"
 }
